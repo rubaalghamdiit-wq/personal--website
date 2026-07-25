@@ -13,9 +13,7 @@ This project is a personal portfolio website developed using HTML, CSS, and Java
 
 ## Technologies Used
 - HTML5
-- CSS3
-- JavaScript
-
+  
 ## Project Structure
 
 ```text
@@ -36,21 +34,4 @@ personal-website/
     <p>Information Technology Graduate</p>
 </header>
 ```
-
-## Sample CSS
-
-```css
-body {
-    font-family: Arial, sans-serif;
-    background: #f5f7fa;
-}
-```
-
-## Sample JavaScript
-
-```javascript
-console.log("Welcome to my personal website!");
-```
-
-## Author
-**Ruba Al-Ghamdi**
+ 
