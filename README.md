@@ -12,20 +12,8 @@ This project is a personal portfolio website developed using HTML, CSS, and Java
 - Contact Information
 
 ## Technologies Used
-- HTML5
-  
-## Project Structure
-
-```text
-personal-website/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
-└── images/
-    └── profile.jpg
-```
-
+- HTML
+ 
 ## Sample HTML
 
 ```html
